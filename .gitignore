@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (if you're using virtualenv or venv)
+venv/
+env/
+*.env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Compiled Python files
+*.pyc
+
+# Dependency directories
+pip-wheel-metadata/
