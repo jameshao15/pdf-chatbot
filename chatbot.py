@@ -16,7 +16,7 @@ def main():
     st.set_page_config(page_title = 'Upload your PDF')
     st.title("PDF ChatBot 📝")   
     st.header("Upload your PDF then ask questions! 💞")
-    st.write("STAN NIKITA THIKITA OR DIE! IF YOU DONT YOU CANNOT USE THIS BOT! PERIYAT!!! 🐉🝁")
+    
     #upload file
     pdf = st.file_uploader("Upload here ⬇")
 
