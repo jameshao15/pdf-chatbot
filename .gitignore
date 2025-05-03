@@ -20,3 +20,6 @@ env/
 
 # Dependency directories
 pip-wheel-metadata/
+
+# Environment variables file
+.env
