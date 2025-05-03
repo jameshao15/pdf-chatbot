@@ -17,7 +17,7 @@ def main():
     load_dotenv()
 
     # Load basic page setup
-    st.set_page_config(page_title='AI Chatbot', layout="wide")
+    st.set_page_config(page_title='ChatBot', layout="wide")
     
     # Initialize session state for tracking
     if 'total_tokens' not in st.session_state:
